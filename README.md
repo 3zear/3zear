@@ -1,4 +1,4 @@
-Ezequiel Arias van Lierde - Data Analyst
+## Ezequiel Arias van Lierde - Data Analyst
 I am a medicine specialist in psychiatry and neuroscience, with a strong background in data analysis and management. 
 Based in Mendoza, Argentina, I have been working in the public sector since 2010 and have progressively 
 taken on management roles that have allowed me to work with data on a daily basis. 
